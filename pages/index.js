@@ -23,7 +23,7 @@ export default function Home({data}) {
         textDecoration="underline"
         fontSize={["4xl", "4xl", "5xl", "5xl"]}
       >
-        NextJS Image Gallery
+        NextJS Image Gallery by Aditya
       </Text>
       <Wrap px="1rem" spacing={4} justify="center">
     {photos.map((pic) => (
